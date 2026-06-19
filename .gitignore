@@ -13,3 +13,5 @@ venv/
 *.log
 postgres_data/
 redis_data/
+data/jan_to_may_violations.csv
+data/predictions.json
